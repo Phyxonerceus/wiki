@@ -30,8 +30,8 @@ There are no settlements in Anyr'Nogur.
 
 ### Casain City Ruins
 
-### [[Sal'Anyr|Ruins of Sal'Anyr]]
+### Ruins of Sal'Anyr
 
-### Solitary [[Runic Blacksmith]]
+### Solitary Runic Blacksmith
 
-### Temple of [[Dahroehl]]
+### Temple of Dahroehl
