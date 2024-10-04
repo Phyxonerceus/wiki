@@ -1,42 +1,37 @@
----
-tags:
-  - Locations
-  - Regions
-  - Western Regions
----
-
 # Anyr'Nogur
 
-![[Anyrnogur1.webp]]{ align=right width="300" }
-
-The Anyr'Nogur [[region]] is in the far west, and is home to the Anyr'Nogur [[Towers|tower]]. The region has few notable features, with the exception of Emperor Anyr's Tomb, which contains his [[Legendary Weapons|Scepter]].
+**Anyr'Nogur** is a region on [[Overworld|Drehmal's]] western coast, mostly made up of desert. Its name comes from early [[Avsohm|Avsohmic]] times, when the House of Anyr held semi-autonomous control over the region. The word "Nogur" is likely [[Rihselch]] for "land" or "desert".
 
 ## Geography
 
-Anyr'Nogur is primarily a desert, with the central feature being a series of flat mesas, deep canyons, and small oases. The desert region is bordered by the [[Ebony Veldt]] to the north, the Nimahj Swamp to the east, a volcanic region leading up to a bridge into the Carmine to the south, and a coastal plain with numerous small islands to the west.
+Anyr'Nogur is located in the far west of the continent, next to the ocean. The region borders the [[Ebony Veldt]] to the north and [[Nimahj Swamp]] to the east. It is also connected to [[The Carmine|the Carmine]] to the south by a small land bridge, spanning a strait between the ocean and a gulf.
 
-Regions that border Anyr'Nogur include:
+The vast majority of Anyr'Nogur is covered in lifeless desert, home to a few small oases. Its terrain is characterized by many bluffs, plateaus and canyons, with red, brown and yellow striped cliffs. In sharp contrast with the desert, the area along the coastline is lush and green, with many jungle trees and steep, orange-brown cliffs. A scattering of tiny, rocky islands can be found off the shore. The landscape of the region's southern portion appears burnt and scarred, similar to some parts of the [[South Heartwood]].
 
-- [[Mount Ebonfire]]
-- The [[Ebony Veldt]]
-- [[Nimahj Swamp]]
-- The [[Carmine]]
+**Environmental Sub-Regions:**
+- Dried, sandy bed of Lake Nimahj in northeast
+- Lush, rocky shores with jungle trees in west
+- Desert with rainbow-colored, striped sand in south
+- Area with charred ground, trenches and lava pools in south
 
-<figure markdown>
-  ![[Anyrnogur2.webp]]{ width="500" }
-  <figcaption>The Anyr'Nogur tower</figcaption>
-</figure>
-
-
-## Notable Locations
-
-- The ruins of [[Sal'Anyr]]
-
-## In the Lore
+There are no settlements in Anyr'Nogur.
 
 ## History
 
-![[Anyrnogur3.webp]]{ align=right width="300" }
- 
-![[Anyrnogur4.webp]]{ align=right width="300" }
 
+
+## [[Terminus Network|Terminus]] Tower
+
+
+
+## Points of Interest
+
+### Avsohmic Launch Site
+
+### Casain City Ruins
+
+### [[Sal'Anyr|Ruins of Sal'Anyr]]
+
+### Solitary [[Runic Blacksmith]]
+
+### Temple of [[Dahroehl]]
