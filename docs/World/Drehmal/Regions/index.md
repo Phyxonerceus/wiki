@@ -12,6 +12,8 @@ The land of [[Overworld|Drehmal]] is divided into 31 different regions, each of 
 
 In the Terminus, regions are categorized into four groups, each having a corresponding color marked on the ceiling. The groups are [Central](/World/Drehmal/Regions/Central_Regions/) (green), [Western](/World/Drehmal/Regions/Central_Regions/) (red), [Eastern](/World/Drehmal/Regions/Central_Regions/) (blue), and [Outer](/World/Drehmal/Regions/Central_Regions/) (yellow). This wiki follows the same convention.
 
+![[Drehmal_regions.webp]]{ align=right width="300" }
+> A map of Drehmal displaying regions and mountain ranges, labeled with colors based on each region's category in the Terminus.
 
 ## Central Regions
 
