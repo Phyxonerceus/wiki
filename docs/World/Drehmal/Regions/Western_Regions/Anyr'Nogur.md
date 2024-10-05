@@ -30,7 +30,7 @@ When the Order of Insohm fell at the end of the Third Avihm, Anyr'Nogur once aga
 
 ## [[Terminus Network|Terminus]] Tower
 
-
+Anyr'Nogur's Terminus tower stands amidst the ruins of Sal'Anyr. Its lower section is enclosed within a tall, sandstone structure, and a staircase winding around its outer walls and above it leads partway to the tower's top before stopping short. There are no hostile entities present.
 
 ## Points of Interest
 
@@ -52,4 +52,4 @@ In the region's southern desert is a sandstone house that belongs to a single [[
 
 ### Temple of Dahroehl
 
-The Temple of [[Dahroehl]] was a temple dedicated to Daroehl, the [Aspect](/Lore/Higher_Beings/Aspects) of Freshwater, hidden within a canyon in the region's desert. Its architecture is heavily inspired by the real-life archaeological site of [Petra](https://en.wikipedia.org/wiki/Petra) in Jordan, with the red sandstone temple being embedded in a cliff on the canyon's side. [A book](/Lore/Books/Hastily-Left_Message/) by the entrance points to another book
+The Temple of [[Dahroehl]] was a temple dedicated to Daroehl, the [Aspect](/Lore/Higher_Beings/Aspects) of Freshwater, hidden within a canyon in the region's desert. Its architecture is heavily inspired by the real-life archaeological site of [Petra](https://en.wikipedia.org/wiki/Petra) in Jordan, with the red sandstone temple being embedded in a cliff on the canyon's side. [[Hastily-Left Message|A book]] near the entrance left by an ill-fated treasure hunter points to [[Cryptic Ode|another, hidden book]], which was written by monks who once resided in the temple and outlines a puzzle that leads to rewards for those who are deemed as worthy. By doing this puzzle, the player can obtain three [[Arcanism|runic]] catalysts and one special [[Artifacts|artifact]].
