@@ -32,6 +32,8 @@ When the Order of Insohm fell at the end of the Third Avihm, Anyr'Nogur once aga
 
 Anyr'Nogur's Terminus tower stands amidst the ruins of Sal'Anyr. Its lower section is enclosed within a tall, sandstone structure, and a staircase winding around its outer walls and above it leads partway to the tower's top before stopping short. There are no hostile entities present.
 
+**Coordinates:** (X: -3351, Y: 216, Z: 2233)
+
 ## Points of Interest
 
 ### Avsohmic Launch Site
