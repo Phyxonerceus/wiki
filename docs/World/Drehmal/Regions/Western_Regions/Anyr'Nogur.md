@@ -36,10 +36,20 @@ When the Order of Insohm fell at the end of the Third Avihm, Anyr'Nogur once aga
 
 ### Avsohmic Launch Site
 
+On Anyr'Nogur's northwest coast is a structure that was used as a secret launch site for space shuttles traveling to and from Avsohm's flagship, the [[Aphelion]]. It was also commissioned as a base for an expedition to [[Western Xivrhynt]], after attempts to explore [[Eastern Xivrhynt]] were abandoned due to unforseen danger. 
+
 ### Casain City Ruins
+
+On the region's western coast are the ancient, red sandstone ruins of a Casain city. It was created during the Casain Empire's period of southward expansion after their failed attempt to conquer Western [[Merijool]].
 
 ### Ruins of Sal'Anyr
 
+Sal'Anyr, originally called Azen'Nath or Sal'Iloh, was large Casain city built of sandstone across the top of a tall plateau in the middle of Anyr'Nogur's desert. It evolved from a military camp that was established by a Casain legion who secretly traveled into the region, preparing for an ambush, during the War of Unification. The city was later incorporated into the Avsohmic Empire, where it was placed under the partial jurisdiction of House Anyr. When Uffeihl Anyr became emperor, he moved his seat of power to the city and he commissioned it as a base of military operations against Maelihs. Sal'Anyr has lain in a state of utter ruin since its destruction by Maelihs and the Skullmother during Avsohm's fall at the end of the Second Avihm, however the giant pyramid that was once used as a mausoleum for the Anyr family still stands tall.
+
 ### Solitary Runic Blacksmith
 
+In the region's southern desert is a sandstone house that belongs to a single [[Runic Blacksmith]], who can be found in a small area behind the building. This smith's mother was well-known and respected by the Insohmic Coalition, and she worked in the Insohmic colonies of the West during the Battle for Drehmal. However, she suddenly left to explore the ruins of Sal'Anyr, and was able to recreate Avsohmic armor from the scraps she found. She then taught her technique to her daughter (the house's current resident) before dying out in the desert.
+
 ### Temple of Dahroehl
+
+The Temple of [[Dahroehl]] was a temple dedicated to Daroehl, the [Aspect](/Lore/Higher_Beings/Aspects) of Freshwater, hidden within a canyon in the region's desert. Its architecture is heavily inspired by the real-life archaeological site of [Petra](https://en.wikipedia.org/wiki/Petra) in Jordan, with the red sandstone temple being embedded in a cliff on the canyon's side. [A book](/Lore/Books/Hastily-Left_Message/) by the entrance points to another book
