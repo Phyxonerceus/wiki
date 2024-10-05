@@ -24,7 +24,9 @@ Centuries later, likely in the Av2 1400s, settlers from the [[Casain Empire]] st
 
 Almost two centuries after the War of Unification, the [[Avsohm|Empire of Avsohm]] took over the territory of both the Second Tharhan Empire and Casain Empire by mostly nonviolent means. With the region now fully subjugated under the empire, the land was allotted to House Anyr, who ruled semi-autonomously from Azen'Nath (referred to by Avsohm as Sal'Iloh). The city's [[Voyhnala]]-based culture was shunned by the nobility, and it was renamed to "[[Sal'Anyr]]" after the ruling house. Sal'Anyr rose to great importance after the Anyr family's head, [[Anyr|Uffeihl Anyr]], was crowned as emperor. He commissioned Sal'Anyr as a massive military stronghold to combat [[Empire of Maelihs|Maelihs's empire]] to the south, and he chose to live there instead of [[Av'Sal]] in order to personally lead his troops.
 
+After most of Avsohm's government and military were [[Fall of Avsohm|wiped from existence]] at the end of the Second Avihm, [[Maelihs]] (using the [[Skullmother]]) destroyed Sal'Anyr and conquered the region along with the rest of the West. Anyr'Nogur continued to be ruled under the Empire of Maelihs until the [[Battle for Drehmal]], in which the region was most likely liberated by the [[Insohm|Insohmic Coalition]] and designated as territory to one or multiple Insohmic member states.
 
+When the Order of Insohm fell at the end of the Third Avihm, Anyr'Nogur once again fell into the hands of Maelihs, and it continues to be reigned over by his empire into the present day.
 
 ## [[Terminus Network|Terminus]] Tower
 
