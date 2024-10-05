@@ -28,7 +28,7 @@ After most of Avsohm's government and military were [[Fall of Avsohm|wiped from 
 
 When the Order of Insohm fell at the end of the Third Avihm, Anyr'Nogur once again fell into the hands of Maelihs, and it continues to be reigned over by his empire into the present day.
 
-## [[Terminus Network|Terminus]] Tower
+## [[Terminus Network|Terminus Tower]]
 
 Anyr'Nogur's Terminus tower stands amidst the ruins of Sal'Anyr. Its lower section is enclosed within a tall, sandstone structure, and a staircase winding around its outer walls and above it leads partway to the tower's top before stopping short. There are no hostile entities present.
 
