@@ -38,4 +38,16 @@ The Order broke down at the end of the Third Avihm, and Maelihs retook all his l
 
 ## [[Terminus Network|Terminus Tower]]
 
+Casai's Terminus tower is relatively short, sitting on a bluff in the region's north. Most of the spire is frozen in a large, conical chunk of ice.
+
 ## Points of Interest
+
+### Athrah
+
+### Avsohmic Vault
+
+### Perishing Well
+
+### Ruins of Sal'Lohd
+
+### Ruins of Zarha
