@@ -44,7 +44,11 @@ Casai's Terminus tower is relatively short, sitting on a bluff in the region's n
 
 ### Athrah
 
+Athrah is a city in northern Casai, positioned on the northern edge of the region's large red sand desert and on the north coast of Lake Athrah. It contains an old town, a slum, and a market, and the buildings have unique architecture that mostly uses acacia wood, red sandstone and brown terracotta. The city has served as the capital city of the Casain Empire ever since its founding thousands of years ago.
+
 ### Avsohmic Vault
+
+On a small island off the region's west coast is [[Avsohmic Vault|an Avsohmic vault]]. It was once one of many that were commissioned by [[Ifeihl|Emperor Ifeihl]] to store sensitive information pertaining to operations at [[Mt. Yavhlix]]. It was rediscovered by the [[Order of Insohm]], and efforts were made to open it in hopes of revealing long-lost knowledge that would empower the Order. The door was successfully opened, and [[Ultva|Master Ultva]] searched the information inside. He was supposedly affected mentally by something he read, locking himself inside, never to be seen again. [[Vahid|Master Vahid]] quickly discontinued the operation, and abandoned Insohmic construction and equipment can still be found at the vault's entrance.
 
 ### Perishing Well
 
