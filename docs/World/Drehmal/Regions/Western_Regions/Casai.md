@@ -52,6 +52,12 @@ On a small island off the region's west coast is [[Avsohmic Vault|an Avsohmic va
 
 ### Perishing Well
 
+The [[Perishing Well]] is a dark shrine of Voynahla inside of a stone spire in the region's west, led into by a red sandstone bridge. It seems to have been in use since ancient times, as it was the site where the emperor of Casai received the prophecy that prompted the Tharhan War of Unification. The temple holds Voynahla's [[Devotion|devotion]] altar.
+
 ### Ruins of Sal'Lohd
 
+The ruins of the former port town of Sal'Lohd sit on the west coast of Casai. It was once an important location for Casain commerce, partly due to strict trade laws, and its markets were patrolled by the Lohdan Port Authority.
+
 ### Ruins of Zarha
+
+Zarha was a city in southern Casai that was home to the Zarha tribe, from which Athrah Zarha came. One other Zarha chieftain is known; Kazabar, who had a deep love for art and died by "consuming the toxic pigments within a particularly vibrant oil painting".
