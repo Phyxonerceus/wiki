@@ -52,7 +52,7 @@ On a small island off the region's west coast is [[Avsohmic Vault|an Avsohmic va
 
 ### Perishing Well
 
-The [[Perishing Well]] is a dark shrine of Voynahla inside of a stone spire in the region's west, led into by a red sandstone bridge. It seems to have been in use since ancient times, as it was the site where the emperor of Casai received the prophecy that prompted the Tharhan War of Unification. The temple holds Voynahla's [[Devotion|devotion]] altar.
+The [[Perishing Well]] is a dark and empty shrine of Voynahla inside of a stone spire in the region's west, led into by a red sandstone bridge. It seems to have been in use since ancient times, as it was the site where the emperor of Casai received the prophecy that prompted the Tharhan War of Unification. The temple holds Voynahla's [[Devotion|devotion]] altar.
 
 ### Ruins of Sal'Lohd
 
