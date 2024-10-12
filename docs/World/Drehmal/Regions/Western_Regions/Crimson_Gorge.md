@@ -4,3 +4,4 @@ The **Crimson Gorge** is a semi-region in southwest [[Overworld|Drehmal]]. Despi
 
 ## Geography
 
+The Crimson Gorge area consists of a large plateau scored with a labyrinthine network of deep canyons, with entrances or exits at [[Rhaveloth]] in the Carmine and the Hellcrags.
