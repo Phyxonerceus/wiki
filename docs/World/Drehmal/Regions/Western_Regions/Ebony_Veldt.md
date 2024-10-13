@@ -4,6 +4,10 @@ The **Ebony Veldt** is a region in western [[Overworld|Drehmal]] that is home to
 
 ## Geography
 
+The Ebony Veldt stretches from Drehmal's west coast to the Burnt Mountains to the east, separating it from [[Capital Valley]] and the [[Gulf of Drehmal]] region. The region borders [[Merijool]] to the north, [[Mt. Ebonfire]] to the northwest, [[Anyr'Nogur]] to the southwest, [[Nimahj Swamp]] to the south and [[North Tharxax]] to the southeast.
+
+The Ebony Veldt consists of a vast expanse of wild grasslands sparsely populated with acacia trees. 
+
 ## History
 
 ## [[Terminus Network|Terminus Tower]]
