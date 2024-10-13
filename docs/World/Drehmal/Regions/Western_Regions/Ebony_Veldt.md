@@ -1,5 +1,7 @@
 # Ebony Veldt
 
+The **Ebony Veldt** is a region in western [[Overworld|Drehmal]]
+
 ## Geography
 
 ## History
