@@ -18,6 +18,8 @@ The town of [[Elvett]] sits in the region's west, on the banks of a river that f
 
 ## History
 
+The first inhabitants of the Ebony Veldt were the Ebohni tribe, who resided in the region in the early Second Avihm. It is unknown how long they
+
 ## [[Terminus Network|Terminus Tower]]
 
 ## Points of Interest
