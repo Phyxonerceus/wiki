@@ -34,8 +34,8 @@ In the Terminus, regions are categorized into four groups, each having a corresp
  - [[Merijool]]
  - [[Mt. Ebonfire]]
  - [[Nimahj Swamp]]
- - [[Tharxax Plains|North Tharxax]]
- - [[Tharxax Plains|South Tharxax]]
+ - [[North Tharxax]]
+ - [[South Tharxax]]
  - [[The Carmine]]
 
 
