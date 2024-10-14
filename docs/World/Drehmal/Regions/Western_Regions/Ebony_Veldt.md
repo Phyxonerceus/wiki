@@ -22,10 +22,16 @@ The first inhabitants of the Ebony Veldt were of the Ebohni tribe, who resided i
 
 The [[Casain Empire]] settled the western Ebony Veldt and founded the town of [[Elvett]]. Years later, as they clashed with the [[Six Tharhan Kingdoms|Tharhan kingdoms]] in what became known as the [[War of Unification]], the Nightwalkers of Caer Adacia caught both sides off guard with an all-out attack that defeated Casai and secured all of the Tharhan lands. Caer Adacia thus became the capital of the [[Second Tharhan Empire]].
 
-The region, along with the rest of the empire, was eventually placed under [[Avsohm|Avsohmic]] rule, specifically under House Vera, based in Caer Adacia. When Avsohm [[Fall of Avsohm|crumbled]], the Ebony Veldt was included in [[Maelihs|Maelihs's]] conquest of the West in the [[Dune Wars]].
+The region, along with the rest of the empire, was eventually placed under [[Avsohm|Avsohmic]] rule, specifically under House Vera, based in Caer Adacia. [[Foundry|The Foundry]], Avsohm's principal manufacturing site for weaponry and armed vehicles, was built in close proximity to Elvett, which housed many of its workers. When Avsohm [[Fall of Avsohm|crumbled]], the Ebony Veldt was included in [[Maelihs|Maelihs's]] conquest of the West in the [[Dune Wars]].
 
-Maelihs reigned until the region was taken over by the [[Insohm|Insohmic Coalition]] during the [[Battle for Drehmal]]. Their capture of Caer Adacia was devastating to Maelihs's forces. At least some of the Ebony Veldt was allotted to the [[Kingdom of Dusps]], and it might have been partitioned with other Insohmic members as well. After the Order of Insohm's collapse, the Insohmic territories in the West erupted into chaos and the region was swiftly reclaimed by [[Empire of Maelihs|Maelihs's empire]]. Caer Adacia was depopulated, possibly due to mass-killing, fleeing, or deportation. The Ebony Veldt still lies under the grasp of Maelihs in the present fay.
+Maelihs reigned until the region was taken over by the [[Insohm|Insohmic Coalition]] during the [[Battle for Drehmal]]. Their capture of Caer Adacia was devastating to Maelihs's forces. At least some of the Ebony Veldt was allotted to the [[Kingdom of Dusps]], and it might have been partitioned with other Insohmic members as well. After the Order of Insohm's collapse, the Insohmic territories in the West erupted into chaos and the region was swiftly reclaimed by [[Empire of Maelihs|Maelihs's empire]]. Caer Adacia was depopulated, possibly due to mass-killing, fleeing, or deportation. The Ebony Veldt still lies under the grasp of Maelihs in the present day.
 
 ## [[Terminus Network|Terminus Tower]]
 
+The Ebony Veldt's Terminus tower is located in the region's central marshland, surrounded by a walled camp of [[Maelmari]] soldiers. One building in particular has a tower, the top of which has a bridge leading to a wooden ledge on the Terminus tower, with a ladder leading to a similar but higher ledge more than halfway up the tower.
+
 ## Points of Interest
+
+### Caer Adacia
+
+### Elvett
