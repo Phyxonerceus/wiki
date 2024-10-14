@@ -18,7 +18,9 @@ The town of [[Elvett]] sits in the region's west, on the banks of a river that f
 
 ## History
 
-The first inhabitants of the Ebony Veldt were the Ebohni tribe, who resided in the region in the early Second Avihm. It is unknown how long they
+The first inhabitants of the Ebony Veldt were of the Ebohni tribe, who resided in the region in the early Second Avihm. It is unknown how long they existed as a distinct group. The [[First Tharhan Empire]] (which may or may not have directly controlled the region) deported their less dangerous criminals to the Ebony Veldt, where they were presumed to die to wild beasts. However, many survived by joining a safe, underground settlement, which slowly accumulated people. This became the city of [[Caer Adacia]]. This society was organized under a matrilineal line of rulers, served by a fearsome band of black-clad warriors called the Nightwalkers. 
+
+The [[Casain Empire]] settled the western Ebony Veldt and founded the town of [[Elvett]]. Years later, as they clashed with the [[Six Tharhan Kingdoms|Tharhan kingdoms]] in what became known as the [[War of Unification]], the Nightwalkers of Caer Adacia caught both sides off guard with an all-out attack that defeated Casai and secured all of the Tharhan lands. Caer Adacia thus became the capital of the [[Second Tharhan Empire]].
 
 ## [[Terminus Network|Terminus Tower]]
 
