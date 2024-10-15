@@ -39,3 +39,5 @@ Caer Adacia was a city built in a vast underground cavern, centered around a for
 ### Elvett
 
 Elvett is a small town situated across both sides of a river in the region's west, nearby a colossal, ancient Avsohmic bridge that was used for shipment in and out of the Foundry. The town's buildings use a mixture of jungle wood and copper, with older ruins of sandstone surrounding the modern settlement. Elvett was most likely originally founded by Casain colonists, eventually falling under Avsohmic rule and accommodating Foundry workers. Today, there is fierce competition between rival families that control different industries within the town.
+
+## The Foundry
