@@ -42,4 +42,4 @@ Elvett is a small town situated across both sides of a river in the region's wes
 
 ### The Foundry
 
-The Foundry was an underground Avsohmic facility/factory that was used to mass-produce weapons and vehicles for the empire's military. An entrance door can be opened by flipping three override switches scattered around the surrounding area. Deeper inside, a mob-fighting arena that was used for testing weapons and potions can be found, and players can take on this challenge. Spanning across the adjacent valley is a large, stone bridge in a partially ruined state, which once provided passage to and from the facility.
+The Foundry was an underground Avsohmic facility/factory in the region's southwest that was used to mass-produce weapons and vehicles for the empire's military. An entrance door can be opened by flipping three override switches scattered around the surrounding area. Deeper inside, a mob-fighting arena that was used for testing weapons and potions can be found, and players can take on this challenge. Spanning across the adjacent valley is a large, stone bridge in a partially ruined state, which once provided passage to and from the facility.
