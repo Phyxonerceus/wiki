@@ -34,4 +34,8 @@ The Ebony Veldt's Terminus tower is located in the region's central marshland, s
 
 ### Caer Adacia
 
+Caer Adacia was a city built in a vast underground cavern, centered around a fortress. It was created by exiled criminals from the First Tharhan Empire, and after centuries of secret development, the city would eventually establish and become the capital of the Second Tharhan Empire. It then changed hands between Avsohm, Maelihs, Insohm, before finally being returned to Maelihs and losing its residents by some means. The empty metropolis can still be found today in the northeast Ebony Veldt via several different entrances.
+
 ### Elvett
+
+Elvett is a small town situated across both sides of a river in the region's west, nearby a colossal, ancient Avsohmic bridge that was used for shipment in and out of the Foundry. The town's buildings use a mixture of jungle wood and copper, with older ruins of sandstone surrounding the modern settlement. Elvett was most likely originally founded by Casain colonists, eventually falling under Avsohmic rule and accommodating Foundry workers. Today, there is fierce competition between rival families that control different industries within the town.
