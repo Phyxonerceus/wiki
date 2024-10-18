@@ -30,6 +30,6 @@ The Hellcrags' Terminus tower sits amid a lava lake in the region's west. It is 
 
 The Burnt Palace is a large fortress consisting of many interconnected towers and halls built on, into, and around a crag in the middle of the region's central lava lake. The structure is comprised mostly of blackstone, slate, and carnelian brick variants. It has served as Maelihs's home and seat of power ever since (presumably) the early Second Avihm. Although he himself is no longer present, the palace is still heavily guarded by [[Maelmari]] and filled with treasure.
 
-### Titan of Strength and Servitude
+### Titans of Strength and Servitude
 
-The Titan of Strength and Servitude are two colossal blackstone statues flanking a pass in the Hellcrags' northeast, leading between the region's northeastern edge by the Crimson Gorge and the region's inner land layer. The colossus to the south depicts Maelihs, standing tall and holding his signature weapon [[Malevolentia]] in his left hand
+The Titans of Strength and Servitude are two colossal blackstone statues flanking a pass in the Hellcrags' northeast, leading between the region's northeastern edge by the Crimson Gorge and the region's inner land layer. The colossus to the south depicts Maelihs, standing tall, holding his signature weapon [[Malevolentia]] in his left hand and sustaining a flame of chaos in his right hand. The northern statue is of a Maelmari servant, bowing before Maelihs and holding their hands in front, pressing his left hand, balled in a fist, into his right hand, held with its palm facing to the left. Beneath Maelihs's statue is a site for offerings.
