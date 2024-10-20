@@ -13,10 +13,13 @@ Lorahn'Kahl is a tropical forest, with trees of jungle wood and birch (the latte
 - Area with winding network of canyons and waterways with steep, blue-and-cyan striped cliffs, in west
 - Area with bluffs with blue-and-cyan striped cliffs on southwest coast
 
-
 The town of [[Mohta]] sits on the tip of a peninsula in the region's east.
 
 ## History
+
+In the early Second Avihm, Lorahn'Kahl was inhabited by a people known as the "Kahlans", who maintained trade with the [[Ancient Drehua]] people to the north.
+
+The region's history throughout the following centuries is unknown, but some time in the late Av2 1300s or 1400s, outcast [[Necromancy|necromancers]] across the continent migrated to Lorahn'Kahl and assembled under the leadership of Saint Raene. This was the foundation of the [[Tri-Moon Theocracy]], which worshiped the trio of [[Lorahn]], [[Loruhn]], and the [[Torahn]]. The Tri-Moon Theocracy existed without major disturbance for several centuries, before conflicts with the [[Empire of Maehlis]] to the west quickly escalated.
 
 ## Regional Map
 
