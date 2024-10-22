@@ -19,7 +19,13 @@ The town of [[Mohta]] sits on the tip of a peninsula in the region's east.
 
 In the early Second Avihm, Lorahn'Kahl was inhabited by a people known as the "Kahlans", who maintained trade with the [[Ancient Drehua]] people to the north.
 
-The region's history throughout the following centuries is unknown, but some time in the late Av2 1300s or 1400s, outcast [[Necromancy|necromancers]] across the continent migrated to Lorahn'Kahl and assembled under the leadership of Saint Raene. This was the foundation of the [[Tri-Moon Theocracy]], which worshiped the trio of [[Lorahn]], [[Loruhn]], and the [[Torahn]]. The Tri-Moon Theocracy existed without major disturbance for several centuries, before conflicts with the [[Empire of Maehlis]] to the west quickly escalated. After the Theocracy raised a fearsome, undead army, the [[Avsohm|Empire of Avsohm]] to the north, who was already their sworn enemy, eliminated the Tri-Moon Theocracy's High Priests and invaded (and most likely later annexed) Lorahn'Kahl out of fear that a war would be fought and [[Maelihs]] would seize control of the region.
+The region's history throughout the following centuries is unknown, but some time in the late Av2 1300s or 1400s, outcast [[Necromancy|necromancers]] across the continent migrated to Lorahn'Kahl and assembled under the leadership of Saint Raene. This was the foundation of the [[Tri-Moon Theocracy]], which worshiped the trio of [[Lorahn]], [[Loruhn]], and the [[Torahn]].
+
+The Tri-Moon Theocracy existed without major disturbance for several centuries, before conflicts with the [[Empire of Maehlis]] to the west quickly escalated. After the Theocracy raised a fearsome, undead army, the [[Avsohm|Empire of Avsohm]] to the north, who was already their sworn enemy, eliminated the Tri-Moon Theocracy's High Priests and invaded (and most likely later annexed) Lorahn'Kahl out of fear that a war would be fought and [[Maelihs]] would seize control of the region. The undead army then broke loose and wreaked havoc on the region, posing s major threat to the local population and forcing them to defend themselves. The "Undead Horde" was eventually disposed of after grueling efforts from Avsohm.
+
+After [[Fall of Avsohm|Avsohm collapsed]], Maelihs attempted to claim Lorahn'Kahl. His armies were able to successfully conquer part of the region, but were held off by resistance in some other areas such as the town of Mohta. Mohta's forces were able to kill an attacking [[Burnt Generals|Burnt General]] during an invasion. 
+
+The [[Insohm|Insohmic Coalition]] liberated the region in the [[Battle for Drehmal]], and one or more member states may have been granted territorial control over the land. However, Insohm soon crumbled, and Maelihs's soldiers returned to retake the area. As of today, his empire only extends into a small portion of the region, on its western edge. Mohta once again stands under threat of attack.
 
 
 
