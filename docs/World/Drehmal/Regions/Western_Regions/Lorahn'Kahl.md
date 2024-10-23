@@ -28,8 +28,9 @@ After [[Fall of Avsohm|Avsohm collapsed]], Maelihs attempted to claim Lorahn'Kah
 The [[Insohm|Insohmic Coalition]] liberated the region in the [[Battle for Drehmal]], and one or more member states may have been granted territorial control over the land. However, Insohm soon crumbled, and Maelihs's soldiers returned to retake the area. As of today, his empire only extends into a small portion of the region, on its western edge. Mohta once again stands under threat of attack.
 
 
-
 ## Regional Map
+
+**Map of Lorahn'Kahl (sold by [[Adventuring Merchant]] in Mohta):**
 
 ## [[Terminus Network|Terminus Tower]]
 
