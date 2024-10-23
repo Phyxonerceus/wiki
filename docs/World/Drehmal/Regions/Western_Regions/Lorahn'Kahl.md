@@ -27,11 +27,24 @@ After [[Fall of Avsohm|Avsohm collapsed]], Maelihs attempted to claim Lorahn'Kah
 
 The [[Insohm|Insohmic Coalition]] liberated the region in the [[Battle for Drehmal]], and one or more member states may have been granted territorial control over the land. However, Insohm soon crumbled, and Maelihs's soldiers returned to retake the area. As of today, his empire only extends into a small portion of the region, on its western edge. Mohta once again stands under threat of attack.
 
-
 ## Regional Map
 
 **Map of Lorahn'Kahl (sold by [[Adventuring Merchant]] in Mohta):**
 
 ## [[Terminus Network|Terminus Tower]]
 
+Lorahn'Kahl's Terminus tower is situated in the middle of a small, mostly-enclosed bay in the region's geographical center, connected to the ocean via a narrow strait. It stands next to a blue and cyan rock jutting out of the water. A prismarine staircase leads to the top of this rock, and a bridge joins its summit to a point on the tower's midsection. The way is guarded by hostile Dahrkin (Guardian) sentries, Undead Theocracy Sentinels, and ___.
+
 ## Points of Interest
+
+### Mohta
+
+Mohta is an [official town](/World/Drehmal/Settlements/Official_Towns/) located on a beach peninsula in eastern Lorahn'Kahl. Its architecture uses circular, stilted structure, mostly composed of jungle wood, with domed, prismarine roofs. The town is fortified by a wooden wall that cuts across the peninsula, shielding it from the inland. Mohta has historically been subject to attacks from both the Undead Horde and [[Maelmari]] troops.
+
+### Moonlight Sanctum
+
+### Necromantic Church
+
+### Ruins of Eloa
+
+### Ruins of Sal'Lorahn
