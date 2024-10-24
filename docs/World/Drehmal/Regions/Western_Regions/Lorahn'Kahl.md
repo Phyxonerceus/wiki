@@ -43,8 +43,16 @@ Mohta is an [official town](/World/Drehmal/Settlements/Official_Towns/) located 
 
 ### Moonlight Sanctum
 
+The Moonlight Sanctum is a group of Necrotic Engines concealed deep in a watery, underground cavern. They were used by the Tri-Moon Theocracy millenia ago but are yet to be found and destroyed. The structure is still heavily guarded by powerful, undead soldiers, and it contains a challenge for the player.
+
 ### Necromantic Church
+
+Nestled underground (and beneath the skeleton of a Skullbeast in the cave above) is a small, church-like chamber built for a congregation of lunar necromancers. It was the site at which Saint Raene first called out to all necromancers to assemble in Lorahn'Kahl, and it is also the place where the officials of the Tri-Moon Theocracy met for the last time and officially dissolved the state. Its entrance can be found in a cliffside by following the trail of prismarine torches through the labyrinth of canyons in the region's west, starting from the ruins of Sal'Lorahn.
 
 ### Ruins of Eloa
 
+Eloa was once a city in central Lorahn'Kahl, and it was most likely self-governed by the House of Ayre, a royal family of [[Tahva|Tahvan]] descendance. They would have only held control for a brief period of time between Avsohm's fall and the area's conquest by Maelihs. Eventually, they were freed by Insohm. It is unclear whether the city was placed under the rule of a certain Insohmic member state or the House of Ayre was granted power, but Maelihs's military was soon to return and assert control once again. This resulted in the city being abandoned by its people, who all dispersed to other nearby cities. Eloa's expansive ruins can still be found today.
+
 ### Ruins of Sal'Lorahn
+
+Sal'Lorahn, meaning "city of Lorahn", was the grand capital city of the Tri-Moon Theocracy, overlooking the shore in the region's western half. The specifics of its history are unknown, but it was probably left in a deserted state of destruction after being overrun in the Undead Horde's rampage.
