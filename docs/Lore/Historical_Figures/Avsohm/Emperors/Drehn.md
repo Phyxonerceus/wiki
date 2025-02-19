@@ -9,7 +9,7 @@
 
 ## Childhood
 
-Drehn Mal'Sohm was born as the heir to the throne of the king of the Chosen Kingdom and was probably raised in the capital city of Drabyel. A children's book in [[Av'Sal]] claims that in his childhood, he was talented in a wide range of skills, including mathematics, athletics, literature, and combat. The same book tells a tale of him breaking a vase and, being an honest boy, confessing to his father. Despite this book likely being propaganda, a different note written by Drehn's tutor corroborates the claim that he excelled academically, also describing him as quiet, observant, and studious.
+Drehn Mal'Sohm was born as the heir to the throne of the king of the Chosen Kingdom and was probably raised in the capital city of Drabyel. A children's book in [[Av'Sal]] claims that in his childhood, he showed talent in a wide range of skills, including mathematics, athletics, literature, and combat. The same book tells a tale of him breaking a vase and, being an honest boy, confessing to his father. Despite this book likely being propaganda, a different note written by Drehn's tutor corroborates the claim that he excelled academically, also describing him as quiet, observant, and studious.
 
 ## Ascent to the Throne
 
