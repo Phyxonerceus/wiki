@@ -25,5 +25,6 @@ Under Drehn's command, the Avsohmic Empire continued to grow. He oversaw the bui
 
 ## Resignation and Later Life
 
+After what can assumed to be more than a century of rule, Drehn Mal'Sohm announced his resignation from his role as emperor. He expressed that he was getting old and wished to rest. An election was held to determine the new emperor, which was won by the popular candidate [[Zorhis Ifeihl]]. Drehn died in his old age some time later before the [[Fall of Avsohm|end of the empire]].
 
 
