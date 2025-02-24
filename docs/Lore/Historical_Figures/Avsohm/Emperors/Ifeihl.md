@@ -9,6 +9,10 @@
 
 ## Election
 
-
+Ifeihl's background and the details of his early life are unknown, but he ran for emperor after Drehn Mal'Sohm's resignation. He garnered support among younger generations, intellectuals, and artists due to his peaceful attitude and interest in the arts, being known to have had experience painting himself. This following earned him enough votes to win the election and the imperial throne.
 
 ## Reign as Emperor
+
+Ifeihl invested lots of money into Avsohm's art and entertainment industries, resulting a period of heightened artistic creativity and creation called the "Years of Color". However, many people in the empire saw his habits as decadent. Ifeihl did not show interest in expanding the empire, and he was especially disinclined to using military force. Some of his other policies were officially banning worship of the [Aspects](/Lore/Higher_Beings/Aspects/) and classifying information about the [[Primary Energy Collection Facility]], storing physical records in secret vaults.
+
+Ifeihl's poor management of funds caused an economic recession that progressively worsened over the second half of his reign. Although the specifics are unclear, he also was an incompetent military commander and cost the empire numerous losses in battle.
