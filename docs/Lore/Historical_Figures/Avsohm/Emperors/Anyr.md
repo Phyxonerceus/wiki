@@ -9,6 +9,8 @@
 
 ## Nobility and Military Career
 
+Uffeihl Anyr was likely born in the early years of the empire, to what can be assumed to have been an already-prominent and wealthy family. He is known to have had a brother named "Arawehn". He served as a general in the Avsohmic military, probably having been granted the title due to the prestiege of his family's name. Nonetheless, he proved himself to be an excellent commander.
+
 ## Reign as Emperor (50% SPOILERS)
 
 ## Project Apotheosis (END-GAME SPOILERS)
